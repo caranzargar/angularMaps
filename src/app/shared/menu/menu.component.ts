@@ -12,7 +12,9 @@ interface MenuItem{
     li:hover{
       color: white;
       border-color: #8D98BB;
-      font-size: 1.1rem;
+      box-sizing: content-box;
+      width: 80%;
+      font-size: 1.12rem;
       background-color: #636df8;
       transition: 400ms;
       cursor: pointer
