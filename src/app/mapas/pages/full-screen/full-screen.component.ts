@@ -10,6 +10,7 @@ import * as mapboxgl  from 'mapbox-gl';
         width: 100%;
         height: 100%;
       }
+      
     `
   ]
 })
